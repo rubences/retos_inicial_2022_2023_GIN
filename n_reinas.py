@@ -126,6 +126,8 @@ def n_queens_solution(n: int) -> None:
     print(len(boards), "solutions were found.")
 
 
+
+
 if __name__ == "__main__":
     import doctest
 
